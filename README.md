@@ -1,4 +1,3 @@
 # LCK_practice
 
-
-<img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=plastic&logo=Tableau&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/> <img alt="Jupyter" src ="https://img.shields.io/badge/jupyter-F37626.svg?&style=plastic&logo=jupyter&logoColor=white"/> <img alt="Pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=plastic&logo=pandas&logoColor=white"/> <img alt="selenium" src ="https://img.shields.io/badge/selenium-43B02A.svg?&style=plastic&logo=selenium&logoColor=white"/> <img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=plastic&logo=Tableau&logoColor=white"/>
